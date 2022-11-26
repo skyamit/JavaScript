@@ -1,0 +1,6 @@
+<!Doctype html> - It is related to version of HTML(represents HTML5)
+
+How we can handle if we want to use script tag in head?
+async - if we want to js once DOM is done
+defer - if we want to js once DOM is done
+
